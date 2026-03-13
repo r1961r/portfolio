@@ -48,7 +48,7 @@ export default function Services() {
           <span className="italic">build for you.</span>
         </h1>
         <p className="mt-6 text-ink/60 max-w-xl">
-          Available for freelance projects and internship opportunities. I work best
+          Available for freelance projects and job opportunities. I work best
           on web apps, APIs, and data-driven systems.
         </p>
       </div>
