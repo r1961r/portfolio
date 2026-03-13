@@ -4,7 +4,7 @@ import { useState } from 'react'
 const contactInfo = [
   { label: 'Email', value: 'rawan0.0allawi@gmail.com', href: 'mailto:rawan0.0allawi@gmail.com' },
   { label: 'Phone', value: '+212 713 197 771', href: 'tel:+212713197771' },
-  { label: 'LinkedIn', value: 'RaouaneAllawi', href: 'https://linkedin.com/in/RaouaneAllawi' },
+  { label: 'LinkedIn', value: 'RaouaneAllawi', href: 'https://www.linkedin.com/in/raouane-allawi-4511b5308?utm_source=share_via&utm_content=profile&utm_medium=member_ios' },
   { label: 'Location', value: 'Salé, Morocco', href: null },
 ]
 
